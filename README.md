@@ -20,7 +20,7 @@ Currently, I'm improving my skills in **Node.js, Java, Spring Boot, React, Next.
 
 ## 💻 My focus
 
-My main strength is **backend development**, where I focus on building APIs, services and clean, scalable architectures using technologies such as **Node.js, Java, Spring Boot and PostgreSQL**.
+My main strength is **Backend Development** and sometimes i love make **FrontEnd Development** with **Next.JS** , where I focus on building APIs, services and clean, scalable architectures using technologies such as **Node.js, Java, Spring Boot and PostgreSQL**.
 
 I also enjoy working on the **frontend** with **React, Next.js and TypeScript**, as well as developing mobile applications with **React Native**.
 
