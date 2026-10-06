@@ -34,3 +34,4 @@ I also enjoy building personal and **open-source projects** to learn, experiment
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-moreno-martinez-023538441/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://andresmtz-cv.vercel.app)
+[![OCC Mundial](https://img.shields.io/badge/OCC_Mundial-0D47A1?style=for-the-badge&logoColor=white)](TU_URL_DE_OCC_AQUI)
