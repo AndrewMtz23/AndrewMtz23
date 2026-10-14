@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andres
 
-I'm a **Junior Software Developer** and Software Development student at the Universidad Tecnológica de Querétaro.
+I'm a **Software Developer** and Software Development student at the Universidad Tecnológica de Querétaro.
 
 I enjoy building web applications, backend services and mobile experiences. My main focus is backend development, although I also like working across the full stack, learning new technologies and creating open-source projects.
 
