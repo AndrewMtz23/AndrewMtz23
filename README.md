@@ -23,7 +23,7 @@ Currently, I'm improving my skills in **Node.js, Java, Spring Boot, React, Next.
 My main strength is **Backend Development**, where I focus on building APIs, services and clean, scalable architectures using technologies such as **Node.js, Java, Spring Boot and PostgreSQL**.
 >Actually I learning about Go :D
 
-I also enjoy working on the **frontend** with **React, Next.js and TypeScript**, as well as developing mobile applications with **React Native**.
+I also enjoy working on the **frontend** with **React, Vite, Next.js and TypeScript**, as well as developing mobile applications with **React Native** and **Flutter**.
 
 > Much of my professional work lives in private repositories owned by the agency I work with. I'm happy to walk through the architecture and design decisions during an interview.
 
