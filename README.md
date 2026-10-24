@@ -4,7 +4,7 @@ I'm a **Software Developer** and Software Development student at the Universidad
 
 I enjoy building web applications, backend services and mobile experiences. My main focus is backend development, although I also like working across the full stack, learning new technologies and creating open-source projects.
 
-Currently, I'm improving my skills in **Node.js, Java, Spring Boot, React, Next.js and PostgreSQL**.
+Currently, I'm improving my skills in **Node.js, Java, Spring Boot, Typescript, React, Next.js and PostgreSQL**.
 >Actually I learning about Go :D
 
 ## 🚀 Technologies I work with
